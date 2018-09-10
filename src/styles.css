@@ -1,0 +1,13 @@
+.form-control {
+  padding: 10px 5px;
+  margin-right: 5px;
+  border: 2px solid #ddd;
+  border-radius: 4px;
+  outline: none;
+  font-size: inherit;
+  transition: .3s;
+}
+
+.form-control:focus {
+  border-color: #0ea0d5;
+}
